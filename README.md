@@ -38,4 +38,15 @@ This project will focus on the following objectives:
 * Explore applications in academic plagiarism detection systems, applicant tracking systems (ATS), and HR verification platforms.
 
 ---
+## Project Overview
 
+![Project Architecture](https://raw.githubusercontent.com/sreeram2001/IAS_PROJECT_T8/main/PROJECT%20OVERVIEW/8689bea8-458e-4ac2-8d6b-60ccf7472823.jpeg)
+
+
+
+![AI Detection Report](https://raw.githubusercontent.com/sreeram2001/IAS_PROJECT_T8/main/PROJECT%20OVERVIEW/0a49969c-e2f4-4655-aa40-6f09d8c1a7ab.jpeg)
+
+
+![System Component View](https://raw.githubusercontent.com/sreeram2001/IAS_PROJECT_T8/main/PROJECT%20OVERVIEW/d8aa731f-e726-4223-8d7f-50b8479767f9.jpeg)
+
+---
