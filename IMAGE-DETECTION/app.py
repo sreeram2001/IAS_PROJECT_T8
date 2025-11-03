@@ -9,7 +9,7 @@ from google.genai import types
 from google.genai.errors import APIError
 
 
-API_KEY = "AIzaSyAAza7WAkrUIqwfZSEckja4tCU_GCe4W1E" 
+API_KEY = "YOUR_API_KEY" 
 MODEL_NAME = "gemini-2.5-flash"
 
 SYSTEM_INSTRUCTION_PROMPT = """
