@@ -38,7 +38,18 @@ This project will focus on the following objectives:
 * Explore applications in academic plagiarism detection systems, applicant tracking systems (ATS), and HR verification platforms.
 
 ---
+
+---
+
+## PROJECT IMPLEMENTATION
+
+* IMAGE DETECTION PART : https://github.com/sreeram2001/IAS_PROJECT_T8
+* TEXT DETECTION PART : https://drive.google.com/drive/folders/1yO6qBhrIfIu3t8MReCf6H6epp3_doZli
+
+---
+
 ## Project Overview
+
 
 ![Project Architecture](https://raw.githubusercontent.com/sreeram2001/IAS_PROJECT_T8/main/PROJECT%20OVERVIEW/8689bea8-458e-4ac2-8d6b-60ccf7472823.jpeg)
 
