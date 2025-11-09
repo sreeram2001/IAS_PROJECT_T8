@@ -60,4 +60,7 @@ This project will focus on the following objectives:
 
 ![System Component View](https://raw.githubusercontent.com/sreeram2001/IAS_PROJECT_T8/main/PROJECT%20OVERVIEW/d8aa731f-e726-4223-8d7f-50b8479767f9.jpeg)
 
+![Text Detection Example](https://raw.githubusercontent.com/sreeram2001/IAS_PROJECT_T8/main/PROJECT%20OVERVIEW/textdetect.jpeg)
+
+![Image Detection Example](https://raw.githubusercontent.com/sreeram2001/IAS_PROJECT_T8/main/PROJECT%20OVERVIEW/imagedetect.jpeg)
 ---
