@@ -44,7 +44,7 @@ This project will focus on the following objectives:
 ## PROJECT IMPLEMENTATION
 
 * IMAGE DETECTION PART : https://github.com/sreeram2001/IAS_PROJECT_T8
-* TEXT DETECTION PART : https://drive.google.com/drive/folders/1yO6qBhrIfIu3t8MReCf6H6epp3_doZli
+* TEXT DETECTION PART : https://drive.google.com/drive/folders/13763B8p42DUQjKt7vOzOgC82jAyEGFrz
 
 ---
 
